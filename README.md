@@ -144,10 +144,11 @@ jupyter notebook notebooks/netflix_analysis.ipynb
 
 ---
 
-## 👤 Author
+## 👤 Author ##
 
-**Your Name**
-📧 your.email@example.com | 🔗 [LinkedIn](https://linkedin.com/in/your-profile) | 💻 [GitHub](https://github.com/your-username)
+**VIRENDRA SHENDE**
+📧vshende25071979@gmail.com | 🔗 www.linkedin.com/in/virendra-shende-913358381
+| 💻 (https://github.com/vshende25071979-coder)
 
 ---
 
