@@ -151,6 +151,3 @@ jupyter notebook notebooks/netflix_analysis.ipynb
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). The dataset itself is provided by Netflix/Kaggle for educational and research purposes.
